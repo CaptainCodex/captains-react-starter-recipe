@@ -32,7 +32,7 @@ export const ajaxObservable = (config: AjaxObservableConfig) =>
   ajax({ crossDomain: true, timeout: 5000, ...config.request }).pipe(
     retryBackoff(config.retryConfig || defaultRetryConfig),
     map(config.onResponseAction),
-    catchError(error =>
+    catchError((error: AjaxError) =>
       config.onErrorAction ? of(config.onErrorAction(error)) : onError(error)
     )
   );

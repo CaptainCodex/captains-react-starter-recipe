@@ -1,5 +1,5 @@
 {
-  "name": "react-ts-redux",
+  "name": "captains-react-starter-recipe",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
@@ -59,7 +59,6 @@
     "pretty-quick": "^1.10.0",
     "react-scripts": "^2.1.5",
     "tslint-plugin-prettier": "^2.0.1",
-    "typedoc": "^0.14.2",
     "typescript": "^3.3.3"
   },
   "proxy": "http://localhost:8080",

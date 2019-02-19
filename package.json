@@ -76,7 +76,7 @@
   "proxy": "http://localhost:8080",
   "husky": {
     "hooks": {
-      "pre-commit": "npm pre-commit"
+      "pre-commit": "npm test"
     }
   },
   "jest": {

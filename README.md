@@ -4,14 +4,10 @@ Welcome to the Captain's React Starter recipe. This is what I load up to get 0 t
 
 ## Table of Contents
 
-- [NPM Scripts](https://gitlab.com/tryprospect/interviews/submissions/grant-dawson/frontend/tree/master/docs#npm-scripts-%EF%B8%8F)
-- [Project Features](https://gitlab.com/tryprospect/interviews/submissions/grant-dawson/frontend/tree/master/docs#project-features)
-- [Emphasis](https://gitlab.com/tryprospect/interviews/submissions/grant-dawson/frontend/tree/master/docs#emphasis)
-- [Epics and AJAX](https://gitlab.com/tryprospect/interviews/submissions/grant-dawson/frontend/tree/master/docs#epics-and-ajax)
-- [Nock](https://gitlab.com/tryprospect/interviews/submissions/grant-dawson/frontend/tree/master/docs#nock)
-- [Enzyme and Jest](https://gitlab.com/tryprospect/interviews/submissions/grant-dawson/frontend/tree/master/docs#enzyme-and-jest)
-- [Beauty](https://gitlab.com/tryprospect/interviews/submissions/grant-dawson/frontend/tree/master/docs#beauty)
-- [Conclusion](https://gitlab.com/tryprospect/interviews/submissions/grant-dawson/frontend/tree/master/docs#conclusion)
+- [Features](https://github.com/CaptainCodex/captains-react-starter-recipe#features)
+- [The Ingredients](https://github.com/CaptainCodex/captains-react-starter-recipe#the-ingredients)
+- [NPM Scripts](https://github.com/CaptainCodex/captains-react-starter-recipe#npm-scripts)
+- [Ajax](https://github.com/CaptainCodex/captains-react-starter-recipe#ajax)
 
 ---
 

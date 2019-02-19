@@ -1,4 +1,4 @@
-![Known Vulnerabilities][snyk-image][snyk-url]
+[![Known Vulnerabilities](https://snyk.io/test/github/CaptainCodex/captains-react-starter-recipe/badge.svg)](https://snyk.io/test/github/CaptainCodex/captains-react-starter-recipe)
 
 # Captain's React Starter Recipe
 

@@ -1,4 +1,4 @@
-[![Known Vulnerabilities](https://snyk.io/test/github/CaptainCodex/captains-react-starter-recipe/badge.svg)](https://snyk.io/test/github/CaptainCodex/captains-react-starter-recipe)
+[![Known Vulnerabilities](snyk-image)](snyk-url)
 
 # Captain's React Starter Recipe
 
@@ -77,4 +77,5 @@ Storybook: npm storybook
 - Retry on errors with an expononentially growing delay between attempts.
 - If nothing is going right, we can catch the error after the final attempt.
 
-.
+[snyk-image]: https://snyk.io/test/github/CaptainCodex/captains-react-starter-recipe/badge.svg?style=flat-square
+[snyk-url]: https://snyk.io/test/github/CaptainCodex/captains-react-starter-recipe

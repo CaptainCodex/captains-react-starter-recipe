@@ -25,6 +25,7 @@ Welcome to the Captain's React Starter recipe. This is what I load up to get 0 t
 
 - TypeScript
 - React
+  - Router
 - Redux
   - Typesafe Actions
   - Reselect

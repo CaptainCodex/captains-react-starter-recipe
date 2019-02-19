@@ -1,3 +1,5 @@
+[![Known Vulnerabilities][snyk-image]][snyk-url]
+
 # Captain's React Starter Recipe
 
 Welcome to the Captain's React Starter recipe. This is what I load up to get 0 to 60; when I need to whip up a fondue fast.

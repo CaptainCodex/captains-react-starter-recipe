@@ -1,4 +1,4 @@
-![Known Vulnerabilities][snyk-image]][snyk-url]
+![Known Vulnerabilities][snyk-image][snyk-url]
 
 # Captain's React Starter Recipe
 

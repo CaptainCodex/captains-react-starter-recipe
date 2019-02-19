@@ -9,8 +9,6 @@ Welcome to the Captain's React Starter recipe. This is what I load up to get 0 t
 - [NPM Scripts](https://github.com/CaptainCodex/captains-react-starter-recipe#npm-scripts)
 - [Ajax](https://github.com/CaptainCodex/captains-react-starter-recipe#ajax)
 
----
-
 ## Features
 
 - Folder structure ready to scale.

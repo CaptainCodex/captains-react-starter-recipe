@@ -11,7 +11,6 @@
     "moment": "^2.24.0",
     "node-sass": "^4.11.0",
     "react": "^16.8.2",
-    "react-addons-css-transition-group": "^15.6.2",
     "react-dom": "^16.8.2",
     "react-redux": "^6.0.0",
     "react-router-dom": "^4.3.1",
@@ -24,17 +23,6 @@
     "rxjs": "^6.4.0",
     "rxjs-compat": "^6.4.0",
     "typesafe-actions": "^3.1.0"
-  },
-  "scripts": {
-    "start": "react-scripts-ts start",
-    "build": "react-scripts-ts build",
-    "test": "react-scripts-ts test --ci -u -b --coverage --color --watchAll=false --env=jsdom --testURL=http://localhost:8080",
-    "test:watch": "react-scripts-ts test --env=jsdom --testURL=http://localhost:8080",
-    "eject": "react-scripts-ts eject",
-    "tslint-check": "tslint-config-prettier-check ./tslint.json",
-    "storybook": "start-storybook -p 9009 -s public",
-    "build-storybook": "build-storybook -s public",
-    "pre-commit": "pretty-quick --staged && npm test"
   },
   "devDependencies": {
     "@storybook/addon-actions": "^4.1.12",
@@ -54,7 +42,6 @@
     "@types/nock": "^9.3.1",
     "@types/node": "^11.9.4",
     "@types/react": "^16.8.3",
-    "@types/react-addons-css-transition-group": "^15.0.5",
     "@types/react-dom": "^16.8.2",
     "@types/react-redux": "^7.0.1",
     "@types/react-router-dom": "^4.3.1",
@@ -90,5 +77,16 @@
       "!src/stories/*.{ts,tsx}",
       "!src/**/*.d.ts"
     ]
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --ci -u -b --coverage --color --watchAll=false --env=jsdom --testURL=http://localhost:8080",
+    "test:watch": "react-scripts-ts test --env=jsdom --testURL=http://localhost:8080",
+    "eject": "react-scripts-ts eject",
+    "tslint-check": "tslint-config-prettier-check ./tslint.json",
+    "storybook": "start-storybook -p 9009 -s public",
+    "build-storybook": "build-storybook -s public",
+    "pre-commit": "pretty-quick --staged && npm test"
   }
 }

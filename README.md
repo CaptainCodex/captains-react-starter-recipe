@@ -1,0 +1,82 @@
+# Captain's React Starter Recipe
+
+Welcome to the Captain's React Starter recipe. This is what I load up to get 0 to 60; when I need to whip up a fondue fast.
+
+## Table of Contents
+
+- [NPM Scripts](https://gitlab.com/tryprospect/interviews/submissions/grant-dawson/frontend/tree/master/docs#npm-scripts-%EF%B8%8F)
+- [Project Features](https://gitlab.com/tryprospect/interviews/submissions/grant-dawson/frontend/tree/master/docs#project-features)
+- [Emphasis](https://gitlab.com/tryprospect/interviews/submissions/grant-dawson/frontend/tree/master/docs#emphasis)
+- [Epics and AJAX](https://gitlab.com/tryprospect/interviews/submissions/grant-dawson/frontend/tree/master/docs#epics-and-ajax)
+- [Nock](https://gitlab.com/tryprospect/interviews/submissions/grant-dawson/frontend/tree/master/docs#nock)
+- [Enzyme and Jest](https://gitlab.com/tryprospect/interviews/submissions/grant-dawson/frontend/tree/master/docs#enzyme-and-jest)
+- [Beauty](https://gitlab.com/tryprospect/interviews/submissions/grant-dawson/frontend/tree/master/docs#beauty)
+- [Conclusion](https://gitlab.com/tryprospect/interviews/submissions/grant-dawson/frontend/tree/master/docs#conclusion)
+
+---
+
+## Features
+
+- Folder structure ready to scale.
+- Ajax-ready Redux with edge cases handled.
+- Pre-commit auto-prettier and testing.
+- 100% code coverage.
+- Storybook set up with knobs and essential plugins, even a proxy for API calls.
+- Full-blown e2e and unit testing with Nock API calls. Mounts real store and reducers.
+- Fully wired Redux, Typesafe Actions and TS setup with Async Actions.
+- TS Lint that enforces safety without nagging about your life choices.
+- ...and a bunch of best practices from top chefs.
+
+## The Ingredients
+
+- TypeScript
+- React
+- Redux
+  - Typesafe Actions
+  - Reselect
+  - Redux Observable
+    - Backoff RxJS
+    - Ajax RxJS
+    - Services
+  - Redux Logger
+- TS Lint
+  - Prettier
+    - Plugin
+    - Config
+  - Pretty Quick
+- Husky
+- Storybook
+- CSS
+  - SCSS
+  - Bootstrap
+  - Reactstrap
+- Utils
+  - Classnames
+  - Lodash
+  - Moment
+  - Humanize Plus
+  - RxJS
+- Testing
+  - Jest (with coverage)
+  - Enzyme
+  - Nock
+- TypeDoc
+
+## NPM Scripts
+
+```
+Start: npm start
+
+Build: npm build
+
+Jest Tests: npm test[:watch]
+
+Storybook: npm storybook
+```
+
+## Ajax
+
+- Provides the option to cancel previous connections to the same URL.
+- Error out after a reasonable timeout to prevent hung requests.
+- Retry on errors with an expononentially growing delay between attempts.
+- If nothing is going right, we can catch the error after the final attempt.

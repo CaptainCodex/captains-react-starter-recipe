@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Hello reducer initial state should match previously saved snapshot 1`] = `
+Object {
+  "hello": Hello {
+    "greeting": "Welcome to the app.",
+  },
+  "world": World {
+    "salutation": "Bonjour.",
+  },
+}
+`;

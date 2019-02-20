@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/CaptainCodex/captains-react-starter-recipe.svg?branch=master)](https://travis-ci.org/CaptainCodex/captains-react-starter-recipe)
+[![Build Status](https://travis-ci.org/CaptainCodex/captains-react-starter-recipe.svg?branch=master)](https://travis-ci.org/CaptainCodex/captains-react-starter-recipe) [![Greenkeeper badge](https://badges.greenkeeper.io/CaptainCodex/captains-react-starter-recipe.svg)](https://greenkeeper.io/)
 [![Known Vulnerabilities][snyk-image]][snyk-url]
 [![Build Status](https://david-dm.org/CaptainCodex/captains-react-starter-recipe.svg)](https://david-dm.org/CaptainCodex/captains-react-starter-recipe.svg)
 

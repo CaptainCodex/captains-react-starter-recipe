@@ -4,7 +4,6 @@
 [![devDependency Status][dev-dependency-status-image]][dev-dependency-status-url]
 [![Codecov Coverage][codecov-image]][codecov-url]
 [![Maintainability][codeclimate-image]][codeclimate-url]
-[![Known Vulnerabilities][snyk-image]][snyk-url]
 
 # Captain's React Starter Recipe
 
@@ -94,8 +93,6 @@ Storybook: npm storybook
 [dependency-status-url]: https://david-dm.org/CaptainCodex/captains-react-starter-recipe.svg
 [dev-dependency-status-image]: https://david-dm.org/CaptainCodex/captains-react-starter-recipe/master/dev-status.svg
 [dev-dependency-status-url]: https://david-dm.org/CaptainCodex/captains-react-starter-recipe/master#info=devDependencies
-[snyk-image]: https://snyk.io/test/github/CaptainCodex/captains-react-starter-recipe/badge.svg
-[snyk-url]: https://snyk.io/test/github/CaptainCodex/captains-react-starter-recipe
 [codecov-image]: https://img.shields.io/codecov/c/github/CaptainCodex/captains-react-starter-recipe/master.svg
 [codecov-url]: https://codecov.io/gh/CaptainCodex/captains-react-starter-recipe
 [codeclimate-image]: https://api.codeclimate.com/v1/badges/544ec1bebabf86cecfe7/maintainability

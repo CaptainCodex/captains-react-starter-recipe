@@ -1,9 +1,9 @@
 [![Build Status][travis-image]][travis-url]
+[![Codecov Coverage][codecov-image]][codecov-url]
+[![Maintainability][codeclimate-image]][codeclimate-url]
 [![Greenkeeper badge][greenkeeper-image]][greenkeeper-url]
 [![Dependency Status][dependency-status-image]][dependency-status-url]
 [![devDependency Status][dev-dependency-status-image]][dev-dependency-status-url]
-[![Codecov Coverage][codecov-image]][codecov-url]
-[![Maintainability][codeclimate-image]][codeclimate-url]
 
 # Captain's React Starter Recipe
 

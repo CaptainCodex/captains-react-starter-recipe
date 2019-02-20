@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/CaptainCodex/captains-react-starter-recipe.svg?branch=master)](https://travis-ci.org/CaptainCodex/captains-react-starter-recipe) [![Greenkeeper badge](https://badges.greenkeeper.io/CaptainCodex/captains-react-starter-recipe.svg)](https://greenkeeper.io/)
 [![Known Vulnerabilities][snyk-image]][snyk-url]
-[![Dependency Status](https://david-dm.org/CaptainCodex/captains-react-starter-recipe.svg)](https://david-dm.org/CaptainCodex/captains-react-starter-recipe.svg)
+[![Dependency Status](https://david-dm.org/CaptainCodex/captains-react-starter-recipe/master.svg)](https://david-dm.org/CaptainCodex/captains-react-starter-recipe.svg)
 [![devDependency Status](https://david-dm.org/CaptainCodex/captains-react-starter-recipe/master/dev-status.svg)](https://david-dm.org/CaptainCodex/captains-react-starter-recipe/master#info=devDependencies)
 
 # Captain's React Starter Recipe

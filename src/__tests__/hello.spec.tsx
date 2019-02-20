@@ -13,6 +13,8 @@ import { getCapitalizedGreeting } from '../features/hello/selectors';
 
 configure({ adapter: new Adapter() });
 
+window.console.error = () => {};
+
 const render = () =>
   mount(
     <Provider store={store}>

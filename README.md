@@ -1,7 +1,8 @@
-[![Build Status](https://travis-ci.org/CaptainCodex/captains-react-starter-recipe.svg?branch=master)](https://travis-ci.org/CaptainCodex/captains-react-starter-recipe) [![Greenkeeper badge](https://badges.greenkeeper.io/CaptainCodex/captains-react-starter-recipe.svg)](https://greenkeeper.io/)
+[![Build Status][travis-image]][travis-url] 
+[![Greenkeeper badge][greenkeeper-image]][greenkeeper-url]
 [![Known Vulnerabilities][snyk-image]][snyk-url]
-[![Dependency Status](https://david-dm.org/CaptainCodex/captains-react-starter-recipe/master.svg)](https://david-dm.org/CaptainCodex/captains-react-starter-recipe.svg)
-[![devDependency Status](https://david-dm.org/CaptainCodex/captains-react-starter-recipe/master/dev-status.svg)](https://david-dm.org/CaptainCodex/captains-react-starter-recipe/master#info=devDependencies)
+[![Dependency Status][dependency-status-image]][dependency-status-url]
+[![devDependency Status][dev-dependency-status-image]][dev-dependency-status-url]
 
 # Captain's React Starter Recipe
 
@@ -81,5 +82,13 @@ Storybook: npm storybook
 - Retry on errors with an expononentially growing delay between attempts.
 - If nothing is going right, we can catch the error after the final attempt.
 
-[snyk-image]: https://snyk.io/test/github/CaptainCodex/captains-react-starter-recipe/badge.svg?style=flat-square
+[travis-image]: https://travis-ci.org/CaptainCodex/captains-react-starter-recipe.svg?branch=master
+[travis-url]: https://travis-ci.org/CaptainCodex/captains-react-starter-recipe
+[greenkeeper-image]: https://badges.greenkeeper.io/CaptainCodex/captains-react-starter-recipe.svg
+[greenkeeper-url]: https://greenkeeper.io/
+[dependency-status-image]: https://david-dm.org/CaptainCodex/captains-react-starter-recipe/master.svg
+[dependency-status-url]: https://david-dm.org/CaptainCodex/captains-react-starter-recipe.svg
+[dev-dependency-status-image]: https://david-dm.org/CaptainCodex/captains-react-starter-recipe/master/dev-status.svg
+[dev-dependency-status-url]: https://david-dm.org/CaptainCodex/captains-react-starter-recipe/master#info=devDependencies
+[snyk-image]: https://snyk.io/test/github/CaptainCodex/captains-react-starter-recipe/badge.svg
 [snyk-url]: https://snyk.io/test/github/CaptainCodex/captains-react-starter-recipe

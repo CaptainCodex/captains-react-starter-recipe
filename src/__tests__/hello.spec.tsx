@@ -8,7 +8,7 @@ import * as actions from '../features/hello/actions';
 import store from '../redux';
 import { defer } from '../../utils';
 
-import * as Adapter from 'enzyme-adapter-react-16';
+import Adapter from 'enzyme-adapter-react-16';
 import { getCapitalizedGreeting } from '../features/hello/selectors';
 
 configure({ adapter: new Adapter() });

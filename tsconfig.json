@@ -1,8 +1,7 @@
 {
   "compilerOptions": {
-    "baseUrl": ".",
     "sourceMap": true,
-    "jsx": "react",
+    "jsx": "preserve",
     "rootDir": "src",
     "noImplicitReturns": true,
     "noImplicitThis": true,
@@ -10,7 +9,20 @@
     "importHelpers": true,
     "strictNullChecks": true,
     "noUnusedLocals": false,
-    "pretty": true
+    "pretty": true,
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true
   },
   "types": ["jest"],
   "include": ["src", "typings"],

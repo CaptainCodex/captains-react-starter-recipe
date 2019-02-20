@@ -14,7 +14,6 @@
     "react-dom": "^16.8.2",
     "react-redux": "^6.0.0",
     "react-router-dom": "^4.3.1",
-    "react-scripts-ts": "3.1.0",
     "reactstrap": "^7.1.0",
     "redux": "^4.0.1",
     "redux-logger": "^3.0.6",
@@ -79,14 +78,20 @@
     ]
   },
   "scripts": {
-    "start": "react-scripts-ts start",
-    "build": "react-scripts-ts build",
-    "test": "react-scripts-ts test --ci --coverage -u -b --color --watchAll=false --env=jsdom --testURL=http://localhost:8080",
-    "test:watch": "react-scripts-ts test --env=jsdom --testURL=http://localhost:8080",
-    "eject": "react-scripts-ts eject",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --ci --coverage -u -b --color --watchAll=false --env=jsdom --testURL=http://localhost:8080",
+    "test:watch": "react-scripts test --env=jsdom --testURL=http://localhost:8080",
+    "eject": "react-scripts eject",
     "tslint-check": "tslint-config-prettier-check ./tslint.json",
     "storybook": "start-storybook -p 9009 -s public",
     "build-storybook": "build-storybook -s public",
     "pre-commit": "pretty-quick --staged && npm test"
-  }
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }

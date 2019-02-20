@@ -1,9 +1,9 @@
 [![Build Status][travis-image]][travis-url]
 [![Greenkeeper badge][greenkeeper-image]][greenkeeper-url]
-[![Known Vulnerabilities][snyk-image]][snyk-url]
 [![Dependency Status][dependency-status-image]][dependency-status-url]
 [![devDependency Status][dev-dependency-status-image]][dev-dependency-status-url]
 [![Codecov Coverage][codecov-image]][codecov-url]
+[![Known Vulnerabilities][snyk-image]][snyk-url]
 
 # Captain's React Starter Recipe
 

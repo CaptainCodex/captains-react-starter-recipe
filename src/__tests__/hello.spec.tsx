@@ -6,7 +6,7 @@ import App from '../App';
 import reducer, { State } from '../features/hello/reducer';
 import * as actions from '../features/hello/actions';
 import store from '../redux';
-import { defer } from '../../mock/utils';
+import { defer } from '../../utils';
 
 import * as Adapter from 'enzyme-adapter-react-16';
 import { getCapitalizedGreeting } from '../features/hello/selectors';

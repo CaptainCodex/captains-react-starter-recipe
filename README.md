@@ -22,7 +22,7 @@ Welcome to the Captain's React Starter recipe. This is what I load up to get 0 t
 - Folder structure ready to scale.
 - Ajax-ready Redux with edge cases handled.
 - Pre-commit auto-prettier and testing.
-- 100% code coverage.
+- 100% code coverage and README badges.
 - Storybook set up with knobs and essential plugins, even a proxy for API calls.
 - Full-blown e2e and unit testing with Nock API calls. Mounts real store and reducers.
 - Fully wired Redux, Typesafe Actions and TS setup with Async Actions.

@@ -1,5 +1,5 @@
-import * as React from 'react';
-import * as nock from 'nock';
+import React from 'react';
+import nock from 'nock';
 import { mount, configure } from 'enzyme';
 import { Provider } from 'react-redux';
 import App from '../App';

@@ -1,5 +1,4 @@
-import * as React from 'react';
-import { Component } from 'react';
+import React, { Component } from 'react';
 
 export class EventBlockWrapper extends Component {
   blockEventBubbling = (event: React.MouseEvent<HTMLDivElement>) => {

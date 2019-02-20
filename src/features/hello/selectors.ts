@@ -1,5 +1,5 @@
 import { createSelector } from 'reselect';
-import * as _ from 'lodash';
+import _ from 'lodash';
 import { State } from './reducer';
 
 const getGreeting = (state: State) => state.hello.greeting;

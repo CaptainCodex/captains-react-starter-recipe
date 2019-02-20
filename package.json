@@ -80,7 +80,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test --ci --coverage -u -b --color --watchAll=false --env=jsdom --testURL=http://localhost:8080",
+    "test": "react-scripts test --ci --coverage --detectOpenHandles -u -b --color --watchAll=false --env=jsdom --testURL=http://localhost:8080",
     "test:watch": "react-scripts test --env=jsdom --testURL=http://localhost:8080",
     "eject": "react-scripts eject",
     "tslint-check": "tslint-config-prettier-check ./tslint.json",

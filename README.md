@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/CaptainCodex/captains-react-starter-recipe.svg?branch=master)](https://travis-ci.org/CaptainCodex/captains-react-starter-recipe)
 [![Known Vulnerabilities][snyk-image]][snyk-url]
+[![Build Status](https://david-dm.org/CaptainCodex/captains-react-starter-recipe.svg)](https://david-dm.org/CaptainCodex/captains-react-starter-recipe.svg)
+
 
 # Captain's React Starter Recipe
 

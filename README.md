@@ -84,6 +84,10 @@ Storybook: npm storybook
 - Retry on errors with an expononentially growing delay between attempts.
 - If nothing is going right, we can catch the error after the final attempt.
 
+## Husky
+
+**yarn add -D husky** after **git init** to re-hook Husky if you deleted the whole .git folder.
+
 [travis-image]: https://travis-ci.org/CaptainCodex/captains-react-starter-recipe.svg?branch=master
 [travis-url]: https://travis-ci.org/CaptainCodex/captains-react-starter-recipe
 [greenkeeper-image]: https://badges.greenkeeper.io/CaptainCodex/captains-react-starter-recipe.svg

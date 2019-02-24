@@ -10665,7 +10665,7 @@ react-popper@^0.10.4:
     popper.js "^1.14.1"
     prop-types "^15.6.1"
 
-react-redux@^6.0.0:
+react-redux@6.0.0:
   version "6.0.0"
   resolved "https://registry.yarnpkg.com/react-redux/-/react-redux-6.0.0.tgz#09e86eeed5febb98e9442458ad2970c8f1a173ef"
   integrity sha512-EmbC3uLl60pw2VqSSkj6HpZ6jTk12RMrwXMBdYtM6niq0MdEaRq9KYCwpJflkOZj349BLGQm1MI/JO1W96kLWQ==
@@ -12573,14 +12573,12 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-typesafe-actions@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/typesafe-actions/-/typesafe-actions-3.1.0.tgz#02210286145939b3b1ead2d71829a8b588592706"
-  integrity sha512-ChLrqMj6DVf8cVKxeIjp6EyA9AyJWJfg00MTuQjDf3MVW4si09P3BQW8JuWQA9Ag3vcRVHzUCPCvaXLa4RKsSQ==
-  optionalDependencies:
-    typescript "3.3.3"
+typesafe-actions@^3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/typesafe-actions/-/typesafe-actions-3.1.1.tgz#77096fbc6ace7db7608c833bf2b5e518f009ca87"
+  integrity sha512-OGjeNOYZV4YYW6qHQTlhEp4vaaJcsDOvS/aHrTTvqVNw5jWhlXY/VEzlu2yLA+qoOedUIBMfnRzbz/UUcQXeBw==
 
-typescript@3.3.3, typescript@^3.3.3:
+typescript@^3.3.3:
   version "3.3.3"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.3.3.tgz#f1657fc7daa27e1a8930758ace9ae8da31403221"
   integrity sha512-Y21Xqe54TBVp+VDSNbuDYdGw0BpoR/Q6wo/+35M8PAU0vipahnyduJWirxxdxjsAkS7hue53x2zp8gz7F05u0A==

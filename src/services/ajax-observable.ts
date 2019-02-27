@@ -29,7 +29,14 @@ const onError = (error: AjaxError) => {
   delayed retries on AJAX errors.
 */
 export const ajaxObservable = (config: AjaxObservableConfig) =>
-  ajax({ crossDomain: true, timeout: 5000, ...config.request }).pipe(
+  ajax({
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    crossDomain: true,
+    timeout: 5000,
+    ...config.request
+  }).pipe(
     retryBackoff(config.retryConfig || defaultRetryConfig),
     map(config.onResponseAction),
     catchError((error: AjaxError) =>

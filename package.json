@@ -36,7 +36,7 @@
     "@types/enzyme": "^3.1.18",
     "@types/enzyme-adapter-react-16": "^1.0.4",
     "@types/humanize-plus": "^1.8.0",
-    "@types/jest": "^24.0.6",
+    "@types/jest": "^24.0.10",
     "@types/lodash": "^4.14.121",
     "@types/nock": "^9.3.1",
     "@types/node": "^11.9.4",

@@ -59,7 +59,7 @@
     "pretty-quick": "^1.10.0",
     "react-scripts": "^2.1.5",
     "tslib": "^1.9.3",
-    "tslint-plugin-prettier": "^2.0.1",
+    "tslint-plugin-prettier": "^2.1.0",
     "typescript": "^3.3.3"
   },
   "proxy": "http://localhost:8080",

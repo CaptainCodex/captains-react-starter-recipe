@@ -34,7 +34,7 @@
     "@storybook/react": "^5.0.0",
     "@types/classnames": "^2.2.7",
     "@types/enzyme": "^3.1.18",
-    "@types/enzyme-adapter-react-16": "^1.0.4",
+    "@types/enzyme-adapter-react-16": "^1.0.6",
     "@types/humanize-plus": "^1.8.0",
     "@types/jest": "^24.0.6",
     "@types/lodash": "^4.14.121",

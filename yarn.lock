@@ -3013,10 +3013,12 @@ babylon@^6.18.0:
   resolved "https://registry.yarnpkg.com/babylon/-/babylon-6.18.0.tgz#af2f3b88fa6f5c1e4c634d1a0f8eac4f55b395e3"
   integrity sha512-q/UEjfGJ2Cm3oKV71DJz9d25TPnq5rhBVL2Q4fA5wcC3jcrdn7+SssEybFIxwAvvP+YCsCYNKughoF33GxgycQ==
 
-backoff-rxjs@^6.3.2:
-  version "6.3.2"
-  resolved "https://registry.yarnpkg.com/backoff-rxjs/-/backoff-rxjs-6.3.2.tgz#3d4b4d294d39179e75a8cab6c8c2c5534d229da3"
-  integrity sha512-bSBdhvr2pR+ulBqQyLFkdbViYLvIL43MQ42agUXKTpQI1l8vVxs4aM8sF62Fl5B88mq8+oM/g51hS5SnSllL2w==
+backoff-rxjs@^6.5.5:
+  version "6.5.5"
+  resolved "https://registry.yarnpkg.com/backoff-rxjs/-/backoff-rxjs-6.5.5.tgz#0b0c3e9d31843c37bb05f77068aa3f950633b671"
+  integrity sha512-lmghvrMq8826Tg6K6HE8p66JiT9FLihMesb042HHO+4XTkFAUGRyIr65vxFZvG933ZjgTM0YTtEeGfBt/amvxA==
+  dependencies:
+    rxjs "^6.5.5"
 
 bail@^1.0.0:
   version "1.0.3"
@@ -11470,6 +11472,13 @@ rxjs@^6.1.0, rxjs@^6.4.0:
   version "6.4.0"
   resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-6.4.0.tgz#f3bb0fe7bda7fb69deac0c16f17b50b0b8790504"
   integrity sha512-Z9Yfa11F6B9Sg/BK9MnqnQ+aQYicPLtilXBp2yUtDt2JRCE0h26d33EnfO3ZxoNxG0T92OUucP3Ct7cpfkdFfw==
+  dependencies:
+    tslib "^1.9.0"
+
+rxjs@^6.5.5:
+  version "6.5.5"
+  resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-6.5.5.tgz#c5c884e3094c8cfee31bf27eb87e54ccfc87f9ec"
+  integrity sha512-WfQI+1gohdf0Dai/Bbmk5L5ItH5tYqm3ki2c5GdWhKjalzjg93N3avFjVStyZZz+A2Em+ZxKH5bNghw9UeylGQ==
   dependencies:
     tslib "^1.9.0"
 

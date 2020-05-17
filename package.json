@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "backoff-rxjs": "^6.3.2",
+    "backoff-rxjs": "^6.5.5",
     "bootstrap": "^4.3.1",
     "classnames": "^2.2.6",
     "humanize-plus": "^1.8.2",

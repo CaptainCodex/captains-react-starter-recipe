@@ -3013,10 +3013,10 @@ babylon@^6.18.0:
   resolved "https://registry.yarnpkg.com/babylon/-/babylon-6.18.0.tgz#af2f3b88fa6f5c1e4c634d1a0f8eac4f55b395e3"
   integrity sha512-q/UEjfGJ2Cm3oKV71DJz9d25TPnq5rhBVL2Q4fA5wcC3jcrdn7+SssEybFIxwAvvP+YCsCYNKughoF33GxgycQ==
 
-backoff-rxjs@^6.3.2:
-  version "6.3.2"
-  resolved "https://registry.yarnpkg.com/backoff-rxjs/-/backoff-rxjs-6.3.2.tgz#3d4b4d294d39179e75a8cab6c8c2c5534d229da3"
-  integrity sha512-bSBdhvr2pR+ulBqQyLFkdbViYLvIL43MQ42agUXKTpQI1l8vVxs4aM8sF62Fl5B88mq8+oM/g51hS5SnSllL2w==
+backoff-rxjs@^6.5.7:
+  version "6.5.7"
+  resolved "https://registry.yarnpkg.com/backoff-rxjs/-/backoff-rxjs-6.5.7.tgz#876e8652487b5b5fdba7ddad7b4d2fff92bf4c96"
+  integrity sha512-j3pEcM5ivIxZhkZ+CcF8LVb5/jORNT4HCEnzavFfBkXSEJfx/WMtq79NKKp8Z0IDThgXxnlvzf41Gvajb4C2NQ==
 
 bail@^1.0.0:
   version "1.0.3"
